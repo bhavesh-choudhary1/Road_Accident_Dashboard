@@ -31,3 +31,7 @@ It contains fictional data about:
 ## 📸 Dashboard Preview
 
 ![Dashboard Screenshot](Dashboard_image.png)
+
+---
+Disclaimer: This dashboard was created as part of a learning activity using publicly available resources.  
+> The dataset and concept were inspired by an educational YouTube video. The entire implementation and execution were done independently.
