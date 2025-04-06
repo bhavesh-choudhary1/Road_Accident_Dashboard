@@ -30,4 +30,4 @@ It contains fictional data about:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](dashboard_image.png)
+![Dashboard Screenshot](Dashboard_image.png)
